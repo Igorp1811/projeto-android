@@ -206,7 +206,7 @@ aside ul {
   list-style-position: inside;
   list-style-type: "\2714\00A0\00A0";
   columns: 2;
-  padding-left: 200px;
+  margin: auto;
 }
 
 footer {
